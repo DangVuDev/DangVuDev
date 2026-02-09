@@ -180,6 +180,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=fadeIn&desc=Let's%20revolutionize%20the%20future%20with%20blockchain%20technology%20🚀&descAlign=50&descAlignY=75&descColor=00ff9f"/>
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github.com/DangVuDev/DangVuDev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
+
