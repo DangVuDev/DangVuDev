@@ -75,7 +75,7 @@
 
 ### 🔹 **Backend & Database**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,go,mongodb,postgres,redis,nginx" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,go,dotnet,mongodb,postgres,redis,nginx" alt="Backend"/>
 </div>
 
 ### 🔹 **DevOps & Cloud**
@@ -85,10 +85,19 @@
 
 ### 🔹 **Tools & Environment**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,githubactions" alt="Tools"/>
+  <!-- Dev tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,githubactions,docker" alt="Tools"/>
+
+  <!-- Blockchain tools -->
   <img src="https://img.shields.io/badge/Remix%20IDE-1DA1F2?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=ethereum&logoColor=white"/>
+
+  <!-- AI tools -->
+  <img src="https://img.shields.io/badge/ChatGPT-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
+
 
 ---
 
@@ -150,6 +159,7 @@
         <div align="center">
           <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
           <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
         </div>
         <p align="center">Blockchain-powered backend application with robust API architecture and smart contract integration.</p>
       </td>
